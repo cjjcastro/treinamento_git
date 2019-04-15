@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "cjjcastro",
+      "name": "Cleber Júnior",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26393787?v=4",
+      "profile": "https://github.com/cjjcastro",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "treinamento_git",
+  "projectOwner": "cjjcastro",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
